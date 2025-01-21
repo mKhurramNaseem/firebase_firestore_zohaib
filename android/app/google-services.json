@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686734818036",
+    "project_id": "zohaib-firebase-prac",
+    "storage_bucket": "zohaib-firebase-prac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686734818036:android:f543f699dd36ec61933ca1",
+        "android_client_info": {
+          "package_name": "com.example.firebase_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiwm2rUFXcTc_7axTLfRsKeq-UhGMY5Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
